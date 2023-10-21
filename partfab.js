@@ -12,8 +12,8 @@
           "%u0e14%u0e23%u002e%u0e27%u0e34%u0e40%u0e0a%u0e35%u0e22%u0e23%u0020%u0e1e%u0e38%u0e48%u0e21%u0e1e%u0e27%u0e07"
         )
       );
-      const developer = elemx.innerHTML.match("Dr.Wichian Ph.");
-      const nicknamedev = elemx.innerHTML.match("kruChian");
+      const developer = elemx.innerHTML.match("Dr.Wichian Ph. Edit with LoneEddy");
+      const nicknamedev = elemx.innerHTML.match("loneeddy");
       
       let dd = "";
       if (datex != "2023") {
